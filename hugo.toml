@@ -62,7 +62,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Hello. You found me."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -216,23 +216,23 @@ disableHugoGeneratorInject = false
   #
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/joshthetechie"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:josh@joshuawagner.me"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/thistechguy"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/joshua-wagner07/"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+ # [[params.social]]
+ #   name = "Mastodon"
+ #   url  = "https://fosstodon.org/@joshthetechie"
 
 [languages]
   [languages.en]
