@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dev.joshuawagner.me'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Joshua Wagner'
+description = 'Hello. You found me.'
+theme = 'hugo-theme-hello-friend-ng'
