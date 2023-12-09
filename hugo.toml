@@ -32,12 +32,17 @@ theme = 'smol'
 # Footer
   [[menu.footer]]
         name = "Github"
-        url = "https://github.com/example"
+        url = "https://github.com/thistechguy"
         weight = 1 
 
     [[menu.footer]]
         name = "Mastodon"
-        url = "https://example.com/@user"
+        url = "https://fosstodon.org/@joshthetechie"
+        weight = 2
+
+    [[menu.footer]]
+        name = "Twitter"
+        url = "https://twitter.com/joshthetechie"
         weight = 2 
 
     [[menu.footer]]
